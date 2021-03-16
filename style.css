@@ -18,9 +18,13 @@ header{
     transform: translate(-50% ,-50%);
     width: 100%;
 }
-@media screen and (max-width: 600px) {
-  #lovevalue{
-      width: 100%;
-      font-size: 60%;
-  }
-  }
+@media screen and (max-width: 1200px) {
+    #lovevalue{
+        width: 100%;
+        font-size: 50%;
+    }
+    #lovevalue1{
+        width: 100%;
+        font-size: 50%;
+    }
+}
