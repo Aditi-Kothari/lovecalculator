@@ -1,0 +1,26 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(element5-digital-MEzqoN8p6C0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.symbol{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+header{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    width: 100%;
+}
+@media screen and (max-width: 600px) {
+  #lovevalue{
+      width: 100%;
+      font-size: 60%;
+  }
+  }
